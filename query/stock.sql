@@ -1,0 +1,1 @@
+select dbo.Kala_Mojoodi(1,default,default,default) as [m]
